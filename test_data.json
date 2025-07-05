@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "When did Freddie Mercury die?"
+    },
+    {
+      "role": "assistant",
+      "content": "Freddie Mercury died on November 24, 1991."
+    },
+    {
+      "role": "user",
+      "content": "Was Queen successful after Freddie Mercury died?"
+    },
+    {
+      "role": "assistant",
+      "content": "After Freddie Mercury\u2019s death, Queen continued to perform with different lead singers, including Paul Rodgers and Adam Lambert. While their success wasn't the same as during Freddie\u2019s era, they still attracted large audiences."
+    }
+  ]
+}
